@@ -1,0 +1,18 @@
+[
+    {
+        "name" : "Wipro" ,
+        "gpa" : 5.5,
+        "img" : "https://e7.pngegg.com/pngimages/1000/421/png-clipart-wipro-logo-india-information-technology-business-arora-company-text.png"
+    },
+    {
+        "name" : "google" ,
+        "gpa" : 8,
+        "img" : "https://lh3.googleusercontent.com/U2loiuR3c4XvWNPyWVbsBcv2RZ6U3zkgiAbHJnda25EQPtrxzbK5beAntOa6xMywyH1nq4J-WvnLa1acadzDPK72M-rPSSm7wJb_Kw=w1200-l80-sg-rp"
+    },
+    {
+        "name" : "oracle" ,
+        "gpa" : 6,
+        "img" : "https://www.google.com/search?q=oracle+logo&sa=X&bih=698&biw=1519&hl=en&sxsrf=ALeKk02EDNJruTmKyonbL0z7hXnCMp2M2Q:1604118757264&tbm=isch&source=iu&ictx=1&fir=5JKpHJIpKcf3YM%252CM6QxdE60yYGE5M%252C_&vet=1&usg=AI4_-kQF7qHEAp6hHsHn6_D5uOjq7BogHw&ved=2ahUKEwjN0dCFgN7sAhUuyzgGHbK7D54Q9QF6BAgSEFc#imgrc=5JKpHJIpKcf3YM"
+    }
+
+]

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Placement predictor</title>
+</head>
+<body>
+    <div class="container">
+        <div class="title">
+            <h1>PLACEMENT PREDICTOR</h1>
+            <p><small>Check GPA eligibility to apply for specific company</small></p>
+        </div>
+        <div class="datablock">
+            <div class="question">
+                <label for="gpa">What is your GPA</label> 
+                <input id="GPA" name="gpa" type="text">
+                <input id="CHECK" type="submit" value="Check">
+                <div id="eligible">
+                    <p>
+                        loading...
+                    </p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="index.js">
+        fetch("data.json")
+    </script>
+</body>
+</html>
